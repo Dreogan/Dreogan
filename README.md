@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dreogan
-- 👀 I’m interested in open source software for Linux.
+- 👀 I’m interested in open source software development for Linux.
 - 🌱 I’m currently learning C++ but have some previous experience with Python scripting
 - 💞️ I’m looking to collaborate on nothing at the moment. Need to learn to code first haha!
 - 📫 How to reach me: You can reach me on Discord at dreogan9
